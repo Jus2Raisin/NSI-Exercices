@@ -3,6 +3,9 @@
 Created on Wed Dec  8 09:35:23 2021
 
 @author: sohan
+
+Ecrire un programme qui à partir d'une chaine de caractère saisie en lettres minuscules au clavier, place dans un dictionnaire les lettres présentes dans la chaine et leur nombre d'occurences respectif.
+
 """
 chaine = input("Entrez une chaine : ")
 Dictionnaire = dict()
